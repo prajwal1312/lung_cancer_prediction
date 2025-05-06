@@ -1,3 +1,6 @@
+Lung Cancer Prediction Using CNN 🧠🩻
+
+
 This project implements a deep learning-based system for the prediction and classification of lung cancer types using image data. The goal is to help in the early detection and accurate categorization of lung cancer, potentially aiding healthcare professionals in diagnosis and treatment planning.
 
 📌 Project Overview
